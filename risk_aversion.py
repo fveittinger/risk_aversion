@@ -1,5 +1,5 @@
 """Compute the utility value of monetary quantities under prospect theory
-change
+change 1 
 """
 from functools import partial
 
